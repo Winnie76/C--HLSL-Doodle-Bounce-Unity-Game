@@ -1,11 +1,3 @@
-**The University of Melbourne**
-# COMP30019 – Graphics and Interaction
-
-Final Electronic Submission (project): **4pm, Fri. 6 November**
-
-
-# Project-2 README
-
 # Doodle Bounce
 
 [Doodle Bounce Gameplay Video](https://youtu.be/XllRptleswA)
