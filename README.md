@@ -9,10 +9,9 @@ Fabrice Wong Kwok
 
 Herman Wang
 
-Biyao Chen
+Winnie Chen
 
 
-## Report
 
 ## Brief explanation of the game
 
